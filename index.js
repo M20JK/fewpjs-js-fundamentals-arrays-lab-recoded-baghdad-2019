@@ -1,5 +1,5 @@
 // Write your solution here!
-let pets =[];
+let pets =['dog' ,'Rabbit' ];
 pets.push('Odie');
 pets.unshift('Cat');
 pets.pop('Odie');

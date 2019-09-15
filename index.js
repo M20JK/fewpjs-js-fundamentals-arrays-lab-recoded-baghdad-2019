@@ -4,3 +4,5 @@ pets.push('Odie');
 pets.unshift('Cat');
 pets.pop('Odie');
 pets.shift('Cat')
+
+const append = []
